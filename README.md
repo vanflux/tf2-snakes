@@ -2,7 +2,7 @@
 
 ![](resources/p2.png)
 
-On September 16th, 2021, the TF2 developers released without a doubt the biggest, best and most glorious update ever, I was already giving up on TF2 as the bots were infesting all the servers. One of the changes was "Nature & Wildlife preservation measures" (at first it appeared to be nothing).
+On September 16th, 2021, the TF2 developers released, without a doubt, the biggest, best and most glorious update ever, I was already giving up on TF2 as the bots were infesting all the servers. One of the changes was "Nature & Wildlife preservation measures" (at first it appeared to be nothing).
 
 ![](resources/p1.png)
 
